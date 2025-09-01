@@ -1,0 +1,8 @@
+openai>=1.2.0
+chromadb
+streamlit
+numpy
+pandas
+tiktoken
+ruff
+python-dotenv
